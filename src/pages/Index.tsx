@@ -6,7 +6,7 @@ import InteractiveMap from "@/components/InteractiveMap";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-amber-25 to-yellow-50">
+    <div className="min-h-screen war-memorial-bg">
       <Header />
       <Timeline />
       <Heroes />
